@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rupali136
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to work on various projects and everytime learn something new
+- 📫 You can reach me through my email address- rs9329699@gmail.com
